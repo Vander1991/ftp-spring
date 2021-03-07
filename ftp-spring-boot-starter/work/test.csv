@@ -1,0 +1,5 @@
+"SettleInfo","Reserve2","Payment","ServiceFee","Reserve1","PayTrans","OrderNo","SettleDate","IsRefund","ReqSys"
+"[{""SettleMoney"":""600"",""ProductProvider"":""100"",""ProductType"":""C1""},{""SettleMoney"":""400"",""ProductType"":""C2"",""ProductProvider"":""200"",""DiscountAmount"":""30""}]","","1000","5","","00552020041618561778232825000000","005520181016003220000481","20200416","0","0055"
+"[{""SettleMoney"":""600"",""ProductProvider"":""100"",""ProductType"":""C1""},{""SettleMoney"":""400"",""ProductType"":""C2"",""ProductProvider"":""200"",""DiscountAmount"":""30""}]","","1000","5","","00552020041208574368412462000125","005520181016003220000482","20200416","1","0055"
+"[{""SettleMoney"":""600"",""ProductProvider"":""100"",""ProductType"":""C1""}]","","600","5","","00552020041618561778232825000000","005520181016003220000481","20200416","0","0055"
+"[{""SettleMoney"":""400"",""ProductType"":""C2"",""ProductProvider"":""200"",""DiscountAmount"":""30""}]","","400","5","","00552020041618561778232825000000","005520181016003220000481","20200416","0","0055"
